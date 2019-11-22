@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+  margin-top: 50px;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thin;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+p{
+  color: black;
+  text-transform: capitalize;
+  text-align: left;
+  line-height: 1.2;
+  text-indent: 40px;
+}
+

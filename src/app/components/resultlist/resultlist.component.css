@@ -1,0 +1,37 @@
+body {
+  background-color: white;
+  margin-top: 50px;
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thin;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
+p
+{
+  color: black;
+  text-align: center;
+  line-height: 1.2;
+}
+/*Needs to be relative to the size of the text*/
+#display_search
+{
+  background-color: white;
+  text-align: center;
+  position: relative;
+  width: 300px;
+  font-size:5px;
+  font-size: 1vw;
+  border-bottom: 2px solid black;
+  padding: 8px;
+  margin: 5px 500px;
+}
+#topic
+{
+  margin: -5px 200px;
+}
